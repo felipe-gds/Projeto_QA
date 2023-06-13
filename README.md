@@ -14,4 +14,5 @@ Ferramentas Utilizadas
 
 Na pasta de [Caso de Teste](https://github.com/felipe-gds/Projeto_QA/tree/main/Casos_de_Teste), o arquivo [Excel](https://github.com/felipe-gds/Projeto_QA/blob/main/Casos_de_Teste/Casos%20de%20teste.xlsx) foi gerado automaticamente pelo Jira, onde fiz algumas alterações para ficar mais legível. 
 
-Mas decidi fazer um novo Caso de Teste manualmente para exemplificar de uma forma mais clara e inspirada nas normas, como da **ISO-29119-3**
+Mas decidi fazer um novo [Caso de Teste](https://github.com/felipe-gds/Projeto_QA/blob/main/Caso%20de%20Teste/Caso%20de%20Teste%20Manual.pdf) manualmente para exemplificar de uma forma mais clara e inspirada nas normas, como da **ISO-29119-3**
+![enter image description here](https://github.com/felipe-gds/Projeto_QA/blob/main/Caso%20de%20Teste/Caso%20de%20Teste%20Manual.pdf)
